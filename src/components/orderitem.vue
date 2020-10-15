@@ -1,6 +1,6 @@
 <template>
 <div>
-  <div class="q-mr-md row">
+  <div class="row q-ma-md ">
  
   <div class="col-6" >{{order.name}}</div>
   <div class="col-3" >{{order.quantity}}</div>
