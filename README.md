@@ -24,3 +24,5 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+### Description
+This app able to create order and also manage the pizza order.
